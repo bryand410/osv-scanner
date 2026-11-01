@@ -204,7 +204,7 @@ interactions:
                 "ecosystem": "npm",
                 "name": "resolve"
               },
-              "version": "1.22.12"
+              "version": "1.22.13"
             },
             {
               "package": {
@@ -225,7 +225,7 @@ interactions:
                 "ecosystem": "npm",
                 "name": "is-core-module"
               },
-              "version": "2.16.2"
+              "version": "2.17.0"
             },
             {
               "package": {
@@ -777,7 +777,7 @@ interactions:
       proto: HTTP/2.0
       proto_major: 2
       proto_minor: 0
-      content_length: 1109
+      content_length: 1188
       body: |
         {
           "results": [
@@ -948,7 +948,14 @@ interactions:
             {},
             {},
             {},
-            {},
+            {
+              "vulns": [
+                {
+                  "id": "GHSA-g3hv-75wg-m249",
+                  "modified": "2026-10-30T23:15:07.420159Z"
+                }
+              ]
+            },
             {},
             {},
             {},
@@ -957,7 +964,7 @@ interactions:
         }
       headers:
         Content-Length:
-          - "1109"
+          - "1188"
         Content-Type:
           - application/json
       status: 200 OK
@@ -1166,7 +1173,7 @@ interactions:
                 "ecosystem": "npm",
                 "name": "resolve"
               },
-              "version": "1.22.12"
+              "version": "1.22.13"
             },
             {
               "package": {
@@ -1187,7 +1194,7 @@ interactions:
                 "ecosystem": "npm",
                 "name": "is-core-module"
               },
-              "version": "2.16.2"
+              "version": "2.17.0"
             },
             {
               "package": {
@@ -1732,7 +1739,7 @@ interactions:
       proto: HTTP/2.0
       proto_major: 2
       proto_minor: 0
-      content_length: 948
+      content_length: 1027
       body: |
         {
           "results": [
@@ -1888,7 +1895,14 @@ interactions:
             {},
             {},
             {},
-            {},
+            {
+              "vulns": [
+                {
+                  "id": "GHSA-g3hv-75wg-m249",
+                  "modified": "2026-10-30T23:15:07.420159Z"
+                }
+              ]
+            },
             {},
             {},
             {},
@@ -1897,7 +1911,7 @@ interactions:
         }
       headers:
         Content-Length:
-          - "948"
+          - "1027"
         Content-Type:
           - application/json
       status: 200 OK
@@ -2106,7 +2120,7 @@ interactions:
                 "ecosystem": "npm",
                 "name": "resolve"
               },
-              "version": "1.22.12"
+              "version": "1.22.13"
             },
             {
               "package": {
@@ -2127,7 +2141,7 @@ interactions:
                 "ecosystem": "npm",
                 "name": "is-core-module"
               },
-              "version": "2.16.2"
+              "version": "2.17.0"
             },
             {
               "package": {
@@ -2672,7 +2686,7 @@ interactions:
       proto: HTTP/2.0
       proto_major: 2
       proto_minor: 0
-      content_length: 948
+      content_length: 1027
       body: |
         {
           "results": [
@@ -2828,7 +2842,14 @@ interactions:
             {},
             {},
             {},
-            {},
+            {
+              "vulns": [
+                {
+                  "id": "GHSA-g3hv-75wg-m249",
+                  "modified": "2026-10-30T23:15:07.420159Z"
+                }
+              ]
+            },
             {},
             {},
             {},
@@ -2837,7 +2858,7 @@ interactions:
         }
       headers:
         Content-Length:
-          - "948"
+          - "1027"
         Content-Type:
           - application/json
       status: 200 OK
@@ -3046,7 +3067,7 @@ interactions:
                 "ecosystem": "npm",
                 "name": "resolve"
               },
-              "version": "1.22.12"
+              "version": "1.22.13"
             },
             {
               "package": {
@@ -3067,7 +3088,7 @@ interactions:
                 "ecosystem": "npm",
                 "name": "is-core-module"
               },
-              "version": "2.16.2"
+              "version": "2.17.0"
             },
             {
               "package": {
@@ -3612,7 +3633,7 @@ interactions:
       proto: HTTP/2.0
       proto_major: 2
       proto_minor: 0
-      content_length: 948
+      content_length: 1027
       body: |
         {
           "results": [
@@ -3768,7 +3789,14 @@ interactions:
             {},
             {},
             {},
-            {},
+            {
+              "vulns": [
+                {
+                  "id": "GHSA-g3hv-75wg-m249",
+                  "modified": "2026-10-30T23:15:07.420159Z"
+                }
+              ]
+            },
             {},
             {},
             {},
@@ -3777,7 +3805,7 @@ interactions:
         }
       headers:
         Content-Length:
-          - "948"
+          - "1027"
         Content-Type:
           - application/json
       status: 200 OK
@@ -3986,7 +4014,7 @@ interactions:
                 "ecosystem": "npm",
                 "name": "resolve"
               },
-              "version": "1.22.12"
+              "version": "1.22.13"
             },
             {
               "package": {
@@ -4007,7 +4035,7 @@ interactions:
                 "ecosystem": "npm",
                 "name": "is-core-module"
               },
-              "version": "2.16.2"
+              "version": "2.17.0"
             },
             {
               "package": {
@@ -4552,7 +4580,7 @@ interactions:
       proto: HTTP/2.0
       proto_major: 2
       proto_minor: 0
-      content_length: 948
+      content_length: 1027
       body: |
         {
           "results": [
@@ -4708,7 +4736,14 @@ interactions:
             {},
             {},
             {},
-            {},
+            {
+              "vulns": [
+                {
+                  "id": "GHSA-g3hv-75wg-m249",
+                  "modified": "2026-10-30T23:15:07.420159Z"
+                }
+              ]
+            },
             {},
             {},
             {},
@@ -4717,7 +4752,7 @@ interactions:
         }
       headers:
         Content-Length:
-          - "948"
+          - "1027"
         Content-Type:
           - application/json
       status: 200 OK
@@ -4926,7 +4961,7 @@ interactions:
                 "ecosystem": "npm",
                 "name": "resolve"
               },
-              "version": "1.22.12"
+              "version": "1.22.13"
             },
             {
               "package": {
@@ -4947,7 +4982,7 @@ interactions:
                 "ecosystem": "npm",
                 "name": "is-core-module"
               },
-              "version": "2.16.2"
+              "version": "2.17.0"
             },
             {
               "package": {
@@ -5492,7 +5527,7 @@ interactions:
       proto: HTTP/2.0
       proto_major: 2
       proto_minor: 0
-      content_length: 948
+      content_length: 1027
       body: |
         {
           "results": [
@@ -5648,7 +5683,14 @@ interactions:
             {},
             {},
             {},
-            {},
+            {
+              "vulns": [
+                {
+                  "id": "GHSA-g3hv-75wg-m249",
+                  "modified": "2026-10-30T23:15:07.420159Z"
+                }
+              ]
+            },
             {},
             {},
             {},
@@ -5657,7 +5699,7 @@ interactions:
         }
       headers:
         Content-Length:
-          - "948"
+          - "1027"
         Content-Type:
           - application/json
       status: 200 OK
@@ -5866,7 +5908,7 @@ interactions:
                 "ecosystem": "npm",
                 "name": "resolve"
               },
-              "version": "1.22.12"
+              "version": "1.22.13"
             },
             {
               "package": {
@@ -5887,7 +5929,7 @@ interactions:
                 "ecosystem": "npm",
                 "name": "is-core-module"
               },
-              "version": "2.16.2"
+              "version": "2.17.0"
             },
             {
               "package": {
@@ -6432,7 +6474,7 @@ interactions:
       proto: HTTP/2.0
       proto_major: 2
       proto_minor: 0
-      content_length: 948
+      content_length: 1027
       body: |
         {
           "results": [
@@ -6588,7 +6630,14 @@ interactions:
             {},
             {},
             {},
-            {},
+            {
+              "vulns": [
+                {
+                  "id": "GHSA-g3hv-75wg-m249",
+                  "modified": "2026-10-30T23:15:07.420159Z"
+                }
+              ]
+            },
             {},
             {},
             {},
@@ -6597,7 +6646,7 @@ interactions:
         }
       headers:
         Content-Length:
-          - "948"
+          - "1027"
         Content-Type:
           - application/json
       status: 200 OK
@@ -6806,7 +6855,7 @@ interactions:
                 "ecosystem": "npm",
                 "name": "resolve"
               },
-              "version": "1.22.12"
+              "version": "1.22.13"
             },
             {
               "package": {
@@ -6827,7 +6876,7 @@ interactions:
                 "ecosystem": "npm",
                 "name": "is-core-module"
               },
-              "version": "2.16.2"
+              "version": "2.17.0"
             },
             {
               "package": {
@@ -7372,7 +7421,7 @@ interactions:
       proto: HTTP/2.0
       proto_major: 2
       proto_minor: 0
-      content_length: 948
+      content_length: 1027
       body: |
         {
           "results": [
@@ -7528,7 +7577,14 @@ interactions:
             {},
             {},
             {},
-            {},
+            {
+              "vulns": [
+                {
+                  "id": "GHSA-g3hv-75wg-m249",
+                  "modified": "2026-10-30T23:15:07.420159Z"
+                }
+              ]
+            },
             {},
             {},
             {},
@@ -7537,7 +7593,7 @@ interactions:
         }
       headers:
         Content-Length:
-          - "948"
+          - "1027"
         Content-Type:
           - application/json
       status: 200 OK
@@ -7746,7 +7802,7 @@ interactions:
                 "ecosystem": "npm",
                 "name": "resolve"
               },
-              "version": "1.22.12"
+              "version": "1.22.13"
             },
             {
               "package": {
@@ -7767,7 +7823,7 @@ interactions:
                 "ecosystem": "npm",
                 "name": "is-core-module"
               },
-              "version": "2.16.2"
+              "version": "2.17.0"
             },
             {
               "package": {
@@ -8312,7 +8368,7 @@ interactions:
       proto: HTTP/2.0
       proto_major: 2
       proto_minor: 0
-      content_length: 948
+      content_length: 1027
       body: |
         {
           "results": [
@@ -8468,7 +8524,14 @@ interactions:
             {},
             {},
             {},
-            {},
+            {
+              "vulns": [
+                {
+                  "id": "GHSA-g3hv-75wg-m249",
+                  "modified": "2026-10-30T23:15:07.420159Z"
+                }
+              ]
+            },
             {},
             {},
             {},
@@ -8477,7 +8540,7 @@ interactions:
         }
       headers:
         Content-Length:
-          - "948"
+          - "1027"
         Content-Type:
           - application/json
       status: 200 OK
@@ -8686,7 +8749,7 @@ interactions:
                 "ecosystem": "npm",
                 "name": "resolve"
               },
-              "version": "1.22.12"
+              "version": "1.22.13"
             },
             {
               "package": {
@@ -8707,7 +8770,7 @@ interactions:
                 "ecosystem": "npm",
                 "name": "is-core-module"
               },
-              "version": "2.16.2"
+              "version": "2.17.0"
             },
             {
               "package": {
@@ -9252,7 +9315,7 @@ interactions:
       proto: HTTP/2.0
       proto_major: 2
       proto_minor: 0
-      content_length: 948
+      content_length: 1027
       body: |
         {
           "results": [
@@ -9408,7 +9471,14 @@ interactions:
             {},
             {},
             {},
-            {},
+            {
+              "vulns": [
+                {
+                  "id": "GHSA-g3hv-75wg-m249",
+                  "modified": "2026-10-30T23:15:07.420159Z"
+                }
+              ]
+            },
             {},
             {},
             {},
@@ -9417,7 +9487,7 @@ interactions:
         }
       headers:
         Content-Length:
-          - "948"
+          - "1027"
         Content-Type:
           - application/json
       status: 200 OK
@@ -9626,7 +9696,7 @@ interactions:
                 "ecosystem": "npm",
                 "name": "resolve"
               },
-              "version": "1.22.12"
+              "version": "1.22.13"
             },
             {
               "package": {
@@ -9647,7 +9717,7 @@ interactions:
                 "ecosystem": "npm",
                 "name": "is-core-module"
               },
-              "version": "2.16.2"
+              "version": "2.17.0"
             },
             {
               "package": {
@@ -10192,7 +10262,7 @@ interactions:
       proto: HTTP/2.0
       proto_major: 2
       proto_minor: 0
-      content_length: 948
+      content_length: 1027
       body: |
         {
           "results": [
@@ -10348,7 +10418,14 @@ interactions:
             {},
             {},
             {},
-            {},
+            {
+              "vulns": [
+                {
+                  "id": "GHSA-g3hv-75wg-m249",
+                  "modified": "2026-10-30T23:15:07.420159Z"
+                }
+              ]
+            },
             {},
             {},
             {},
@@ -10357,7 +10434,954 @@ interactions:
         }
       headers:
         Content-Length:
-          - "948"
+          - "1027"
+        Content-Type:
+          - application/json
+      status: 200 OK
+      code: 200
+      duration: 0s
+  - request:
+      proto: HTTP/1.1
+      proto_major: 1
+      proto_minor: 1
+      content_length: 13302
+      host: api.osv.dev
+      body: |
+        {
+          "queries": [
+            {
+              "package": {
+                "ecosystem": "npm",
+                "name": "npm-registry-client"
+              },
+              "version": "6.5.1"
+            },
+            {
+              "package": {
+                "ecosystem": "npm",
+                "name": "chownr"
+              },
+              "version": "0.0.2"
+            },
+            {
+              "package": {
+                "ecosystem": "npm",
+                "name": "concat-stream"
+              },
+              "version": "1.6.2"
+            },
+            {
+              "package": {
+                "ecosystem": "npm",
+                "name": "graceful-fs"
+              },
+              "version": "3.0.12"
+            },
+            {
+              "package": {
+                "ecosystem": "npm",
+                "name": "mkdirp"
+              },
+              "version": "0.5.6"
+            },
+            {
+              "package": {
+                "ecosystem": "npm",
+                "name": "normalize-package-data"
+              },
+              "version": "2.5.0"
+            },
+            {
+              "package": {
+                "ecosystem": "npm",
+                "name": "npm-package-arg"
+              },
+              "version": "4.2.1"
+            },
+            {
+              "package": {
+                "ecosystem": "npm",
+                "name": "npmlog"
+              },
+              "version": "7.0.1"
+            },
+            {
+              "package": {
+                "ecosystem": "npm",
+                "name": "once"
+              },
+              "version": "1.4.0"
+            },
+            {
+              "package": {
+                "ecosystem": "npm",
+                "name": "request"
+              },
+              "version": "2.88.2"
+            },
+            {
+              "package": {
+                "ecosystem": "npm",
+                "name": "retry"
+              },
+              "version": "0.6.1"
+            },
+            {
+              "package": {
+                "ecosystem": "npm",
+                "name": "rimraf"
+              },
+              "version": "2.7.1"
+            },
+            {
+              "package": {
+                "ecosystem": "npm",
+                "name": "semver"
+              },
+              "version": "5.7.2"
+            },
+            {
+              "package": {
+                "ecosystem": "npm",
+                "name": "slide"
+              },
+              "version": "1.1.6"
+            },
+            {
+              "package": {
+                "ecosystem": "npm",
+                "name": "buffer-from"
+              },
+              "version": "1.1.2"
+            },
+            {
+              "package": {
+                "ecosystem": "npm",
+                "name": "inherits"
+              },
+              "version": "2.0.4"
+            },
+            {
+              "package": {
+                "ecosystem": "npm",
+                "name": "readable-stream"
+              },
+              "version": "2.3.8"
+            },
+            {
+              "package": {
+                "ecosystem": "npm",
+                "name": "typedarray"
+              },
+              "version": "0.0.6"
+            },
+            {
+              "package": {
+                "ecosystem": "npm",
+                "name": "core-util-is"
+              },
+              "version": "1.0.3"
+            },
+            {
+              "package": {
+                "ecosystem": "npm",
+                "name": "isarray"
+              },
+              "version": "1.0.0"
+            },
+            {
+              "package": {
+                "ecosystem": "npm",
+                "name": "process-nextick-args"
+              },
+              "version": "2.0.1"
+            },
+            {
+              "package": {
+                "ecosystem": "npm",
+                "name": "safe-buffer"
+              },
+              "version": "5.1.2"
+            },
+            {
+              "package": {
+                "ecosystem": "npm",
+                "name": "string_decoder"
+              },
+              "version": "1.1.1"
+            },
+            {
+              "package": {
+                "ecosystem": "npm",
+                "name": "util-deprecate"
+              },
+              "version": "1.0.2"
+            },
+            {
+              "package": {
+                "ecosystem": "npm",
+                "name": "natives"
+              },
+              "version": "1.1.6"
+            },
+            {
+              "package": {
+                "ecosystem": "npm",
+                "name": "minimist"
+              },
+              "version": "1.2.8"
+            },
+            {
+              "package": {
+                "ecosystem": "npm",
+                "name": "hosted-git-info"
+              },
+              "version": "2.8.9"
+            },
+            {
+              "package": {
+                "ecosystem": "npm",
+                "name": "resolve"
+              },
+              "version": "1.22.13"
+            },
+            {
+              "package": {
+                "ecosystem": "npm",
+                "name": "validate-npm-package-license"
+              },
+              "version": "3.0.4"
+            },
+            {
+              "package": {
+                "ecosystem": "npm",
+                "name": "es-errors"
+              },
+              "version": "1.3.0"
+            },
+            {
+              "package": {
+                "ecosystem": "npm",
+                "name": "is-core-module"
+              },
+              "version": "2.17.0"
+            },
+            {
+              "package": {
+                "ecosystem": "npm",
+                "name": "path-parse"
+              },
+              "version": "1.0.7"
+            },
+            {
+              "package": {
+                "ecosystem": "npm",
+                "name": "supports-preserve-symlinks-flag"
+              },
+              "version": "1.0.0"
+            },
+            {
+              "package": {
+                "ecosystem": "npm",
+                "name": "hasown"
+              },
+              "version": "2.0.4"
+            },
+            {
+              "package": {
+                "ecosystem": "npm",
+                "name": "function-bind"
+              },
+              "version": "1.1.2"
+            },
+            {
+              "package": {
+                "ecosystem": "npm",
+                "name": "spdx-correct"
+              },
+              "version": "3.2.0"
+            },
+            {
+              "package": {
+                "ecosystem": "npm",
+                "name": "spdx-expression-parse"
+              },
+              "version": "3.0.1"
+            },
+            {
+              "package": {
+                "ecosystem": "npm",
+                "name": "spdx-license-ids"
+              },
+              "version": "3.0.24"
+            },
+            {
+              "package": {
+                "ecosystem": "npm",
+                "name": "spdx-exceptions"
+              },
+              "version": "2.5.0"
+            },
+            {
+              "package": {
+                "ecosystem": "npm",
+                "name": "are-we-there-yet"
+              },
+              "version": "4.0.2"
+            },
+            {
+              "package": {
+                "ecosystem": "npm",
+                "name": "console-control-strings"
+              },
+              "version": "1.1.0"
+            },
+            {
+              "package": {
+                "ecosystem": "npm",
+                "name": "gauge"
+              },
+              "version": "5.0.2"
+            },
+            {
+              "package": {
+                "ecosystem": "npm",
+                "name": "set-blocking"
+              },
+              "version": "2.0.0"
+            },
+            {
+              "package": {
+                "ecosystem": "npm",
+                "name": "aproba"
+              },
+              "version": "2.1.0"
+            },
+            {
+              "package": {
+                "ecosystem": "npm",
+                "name": "color-support"
+              },
+              "version": "1.1.3"
+            },
+            {
+              "package": {
+                "ecosystem": "npm",
+                "name": "has-unicode"
+              },
+              "version": "2.0.1"
+            },
+            {
+              "package": {
+                "ecosystem": "npm",
+                "name": "signal-exit"
+              },
+              "version": "4.1.0"
+            },
+            {
+              "package": {
+                "ecosystem": "npm",
+                "name": "string-width"
+              },
+              "version": "4.2.3"
+            },
+            {
+              "package": {
+                "ecosystem": "npm",
+                "name": "strip-ansi"
+              },
+              "version": "6.0.1"
+            },
+            {
+              "package": {
+                "ecosystem": "npm",
+                "name": "wide-align"
+              },
+              "version": "1.1.5"
+            },
+            {
+              "package": {
+                "ecosystem": "npm",
+                "name": "emoji-regex"
+              },
+              "version": "8.0.0"
+            },
+            {
+              "package": {
+                "ecosystem": "npm",
+                "name": "is-fullwidth-code-point"
+              },
+              "version": "3.0.0"
+            },
+            {
+              "package": {
+                "ecosystem": "npm",
+                "name": "ansi-regex"
+              },
+              "version": "5.0.1"
+            },
+            {
+              "package": {
+                "ecosystem": "npm",
+                "name": "wrappy"
+              },
+              "version": "1.0.2"
+            },
+            {
+              "package": {
+                "ecosystem": "npm",
+                "name": "aws-sign2"
+              },
+              "version": "0.7.0"
+            },
+            {
+              "package": {
+                "ecosystem": "npm",
+                "name": "aws4"
+              },
+              "version": "1.13.2"
+            },
+            {
+              "package": {
+                "ecosystem": "npm",
+                "name": "caseless"
+              },
+              "version": "0.12.0"
+            },
+            {
+              "package": {
+                "ecosystem": "npm",
+                "name": "combined-stream"
+              },
+              "version": "1.0.8"
+            },
+            {
+              "package": {
+                "ecosystem": "npm",
+                "name": "extend"
+              },
+              "version": "3.0.2"
+            },
+            {
+              "package": {
+                "ecosystem": "npm",
+                "name": "forever-agent"
+              },
+              "version": "0.6.1"
+            },
+            {
+              "package": {
+                "ecosystem": "npm",
+                "name": "form-data"
+              },
+              "version": "2.3.3"
+            },
+            {
+              "package": {
+                "ecosystem": "npm",
+                "name": "har-validator"
+              },
+              "version": "5.1.5"
+            },
+            {
+              "package": {
+                "ecosystem": "npm",
+                "name": "http-signature"
+              },
+              "version": "1.2.0"
+            },
+            {
+              "package": {
+                "ecosystem": "npm",
+                "name": "is-typedarray"
+              },
+              "version": "1.0.0"
+            },
+            {
+              "package": {
+                "ecosystem": "npm",
+                "name": "isstream"
+              },
+              "version": "0.1.2"
+            },
+            {
+              "package": {
+                "ecosystem": "npm",
+                "name": "json-stringify-safe"
+              },
+              "version": "5.0.1"
+            },
+            {
+              "package": {
+                "ecosystem": "npm",
+                "name": "mime-types"
+              },
+              "version": "2.1.35"
+            },
+            {
+              "package": {
+                "ecosystem": "npm",
+                "name": "oauth-sign"
+              },
+              "version": "0.9.0"
+            },
+            {
+              "package": {
+                "ecosystem": "npm",
+                "name": "performance-now"
+              },
+              "version": "2.1.0"
+            },
+            {
+              "package": {
+                "ecosystem": "npm",
+                "name": "qs"
+              },
+              "version": "6.5.5"
+            },
+            {
+              "package": {
+                "ecosystem": "npm",
+                "name": "tough-cookie"
+              },
+              "version": "2.5.0"
+            },
+            {
+              "package": {
+                "ecosystem": "npm",
+                "name": "tunnel-agent"
+              },
+              "version": "0.6.0"
+            },
+            {
+              "package": {
+                "ecosystem": "npm",
+                "name": "uuid"
+              },
+              "version": "3.4.0"
+            },
+            {
+              "package": {
+                "ecosystem": "npm",
+                "name": "delayed-stream"
+              },
+              "version": "1.0.0"
+            },
+            {
+              "package": {
+                "ecosystem": "npm",
+                "name": "asynckit"
+              },
+              "version": "0.4.0"
+            },
+            {
+              "package": {
+                "ecosystem": "npm",
+                "name": "mime-db"
+              },
+              "version": "1.52.0"
+            },
+            {
+              "package": {
+                "ecosystem": "npm",
+                "name": "ajv"
+              },
+              "version": "6.15.0"
+            },
+            {
+              "package": {
+                "ecosystem": "npm",
+                "name": "har-schema"
+              },
+              "version": "2.0.0"
+            },
+            {
+              "package": {
+                "ecosystem": "npm",
+                "name": "fast-deep-equal"
+              },
+              "version": "3.1.3"
+            },
+            {
+              "package": {
+                "ecosystem": "npm",
+                "name": "fast-json-stable-stringify"
+              },
+              "version": "2.1.0"
+            },
+            {
+              "package": {
+                "ecosystem": "npm",
+                "name": "json-schema-traverse"
+              },
+              "version": "0.4.1"
+            },
+            {
+              "package": {
+                "ecosystem": "npm",
+                "name": "uri-js"
+              },
+              "version": "4.4.1"
+            },
+            {
+              "package": {
+                "ecosystem": "npm",
+                "name": "punycode"
+              },
+              "version": "2.3.1"
+            },
+            {
+              "package": {
+                "ecosystem": "npm",
+                "name": "assert-plus"
+              },
+              "version": "1.0.0"
+            },
+            {
+              "package": {
+                "ecosystem": "npm",
+                "name": "jsprim"
+              },
+              "version": "1.4.2"
+            },
+            {
+              "package": {
+                "ecosystem": "npm",
+                "name": "sshpk"
+              },
+              "version": "1.18.0"
+            },
+            {
+              "package": {
+                "ecosystem": "npm",
+                "name": "extsprintf"
+              },
+              "version": "1.3.0"
+            },
+            {
+              "package": {
+                "ecosystem": "npm",
+                "name": "json-schema"
+              },
+              "version": "0.4.0"
+            },
+            {
+              "package": {
+                "ecosystem": "npm",
+                "name": "verror"
+              },
+              "version": "1.10.0"
+            },
+            {
+              "package": {
+                "ecosystem": "npm",
+                "name": "core-util-is"
+              },
+              "version": "1.0.2"
+            },
+            {
+              "package": {
+                "ecosystem": "npm",
+                "name": "asn1"
+              },
+              "version": "0.2.6"
+            },
+            {
+              "package": {
+                "ecosystem": "npm",
+                "name": "bcrypt-pbkdf"
+              },
+              "version": "1.0.2"
+            },
+            {
+              "package": {
+                "ecosystem": "npm",
+                "name": "dashdash"
+              },
+              "version": "1.14.1"
+            },
+            {
+              "package": {
+                "ecosystem": "npm",
+                "name": "ecc-jsbn"
+              },
+              "version": "0.1.2"
+            },
+            {
+              "package": {
+                "ecosystem": "npm",
+                "name": "getpass"
+              },
+              "version": "0.1.7"
+            },
+            {
+              "package": {
+                "ecosystem": "npm",
+                "name": "jsbn"
+              },
+              "version": "0.1.1"
+            },
+            {
+              "package": {
+                "ecosystem": "npm",
+                "name": "safer-buffer"
+              },
+              "version": "2.1.2"
+            },
+            {
+              "package": {
+                "ecosystem": "npm",
+                "name": "tweetnacl"
+              },
+              "version": "0.14.5"
+            },
+            {
+              "package": {
+                "ecosystem": "npm",
+                "name": "psl"
+              },
+              "version": "1.15.0"
+            },
+            {
+              "package": {
+                "ecosystem": "npm",
+                "name": "glob"
+              },
+              "version": "7.2.3"
+            },
+            {
+              "package": {
+                "ecosystem": "npm",
+                "name": "fs.realpath"
+              },
+              "version": "1.0.0"
+            },
+            {
+              "package": {
+                "ecosystem": "npm",
+                "name": "inflight"
+              },
+              "version": "1.0.6"
+            },
+            {
+              "package": {
+                "ecosystem": "npm",
+                "name": "minimatch"
+              },
+              "version": "3.1.5"
+            },
+            {
+              "package": {
+                "ecosystem": "npm",
+                "name": "path-is-absolute"
+              },
+              "version": "1.0.1"
+            },
+            {
+              "package": {
+                "ecosystem": "npm",
+                "name": "brace-expansion"
+              },
+              "version": "1.1.21"
+            },
+            {
+              "package": {
+                "ecosystem": "npm",
+                "name": "balanced-match"
+              },
+              "version": "1.0.2"
+            },
+            {
+              "package": {
+                "ecosystem": "npm",
+                "name": "concat-map"
+              },
+              "version": "0.0.1"
+            }
+          ]
+        }
+      headers:
+        Content-Type:
+          - application/json
+      url: https://api.osv.dev/v1/querybatch
+      method: POST
+    response:
+      proto: HTTP/2.0
+      proto_major: 2
+      proto_minor: 0
+      content_length: 1027
+      body: |
+        {
+          "results": [
+            {},
+            {
+              "vulns": [
+                {
+                  "id": "GHSA-c6rq-rjc2-86v2",
+                  "modified": "2023-11-08T03:59:16.650985Z"
+                }
+              ]
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {
+              "vulns": [
+                {
+                  "id": "GHSA-p8p7-x288-28g6",
+                  "modified": "2026-09-10T03:49:52.915755Z"
+                }
+              ]
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {
+              "vulns": [
+                {
+                  "id": "GHSA-fjxv-7rqg-78g4",
+                  "modified": "2026-09-10T03:50:57.924154Z"
+                },
+                {
+                  "id": "GHSA-hmw2-7cc7-3qxx",
+                  "modified": "2026-09-10T03:50:49.785679Z"
+                }
+              ]
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {
+              "vulns": [
+                {
+                  "id": "GHSA-4mjr-xmp4-gh2g",
+                  "modified": "2026-09-10T03:51:14.991984Z"
+                },
+                {
+                  "id": "GHSA-6rw7-vpxm-498p",
+                  "modified": "2026-09-10T03:50:31.670581Z"
+                }
+              ]
+            },
+            {
+              "vulns": [
+                {
+                  "id": "GHSA-72xf-g2v4-qvf3",
+                  "modified": "2026-09-10T03:49:54.440029Z"
+                }
+              ]
+            },
+            {},
+            {
+              "vulns": [
+                {
+                  "id": "GHSA-w5hq-g745-h8pq",
+                  "modified": "2026-09-10T03:51:03.663336Z"
+                }
+              ]
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {
+              "vulns": [
+                {
+                  "id": "GHSA-g3hv-75wg-m249",
+                  "modified": "2026-10-30T23:15:07.420159Z"
+                }
+              ]
+            },
+            {},
+            {},
+            {},
+            {}
+          ]
+        }
+      headers:
+        Content-Length:
+          - "1027"
         Content-Type:
           - application/json
       status: 200 OK
@@ -10531,7 +11555,7 @@ interactions:
                 "ecosystem": "npm",
                 "name": "resolve"
               },
-              "version": "1.22.12"
+              "version": "1.22.13"
             },
             {
               "package": {
@@ -10552,7 +11576,7 @@ interactions:
                 "ecosystem": "npm",
                 "name": "is-core-module"
               },
-              "version": "2.16.2"
+              "version": "2.17.0"
             },
             {
               "package": {
@@ -11376,7 +12400,7 @@ interactions:
                 "ecosystem": "npm",
                 "name": "resolve"
               },
-              "version": "1.22.12"
+              "version": "1.22.13"
             },
             {
               "package": {
@@ -11397,7 +12421,7 @@ interactions:
                 "ecosystem": "npm",
                 "name": "is-core-module"
               },
-              "version": "2.16.2"
+              "version": "2.17.0"
             },
             {
               "package": {
@@ -12221,7 +13245,7 @@ interactions:
                 "ecosystem": "npm",
                 "name": "resolve"
               },
-              "version": "1.22.12"
+              "version": "1.22.13"
             },
             {
               "package": {
@@ -12242,7 +13266,7 @@ interactions:
                 "ecosystem": "npm",
                 "name": "is-core-module"
               },
-              "version": "2.16.2"
+              "version": "2.17.0"
             },
             {
               "package": {
@@ -13066,7 +14090,7 @@ interactions:
                 "ecosystem": "npm",
                 "name": "resolve"
               },
-              "version": "1.22.12"
+              "version": "1.22.13"
             },
             {
               "package": {
@@ -13087,7 +14111,7 @@ interactions:
                 "ecosystem": "npm",
                 "name": "is-core-module"
               },
-              "version": "2.16.2"
+              "version": "2.17.0"
             },
             {
               "package": {
@@ -13911,7 +14935,7 @@ interactions:
                 "ecosystem": "npm",
                 "name": "resolve"
               },
-              "version": "1.22.12"
+              "version": "1.22.13"
             },
             {
               "package": {
@@ -13932,7 +14956,7 @@ interactions:
                 "ecosystem": "npm",
                 "name": "is-core-module"
               },
-              "version": "2.16.2"
+              "version": "2.17.0"
             },
             {
               "package": {
@@ -14756,7 +15780,7 @@ interactions:
                 "ecosystem": "npm",
                 "name": "resolve"
               },
-              "version": "1.22.12"
+              "version": "1.22.13"
             },
             {
               "package": {
@@ -14777,7 +15801,7 @@ interactions:
                 "ecosystem": "npm",
                 "name": "is-core-module"
               },
-              "version": "2.16.2"
+              "version": "2.17.0"
             },
             {
               "package": {
@@ -15601,7 +16625,7 @@ interactions:
                 "ecosystem": "npm",
                 "name": "resolve"
               },
-              "version": "1.22.12"
+              "version": "1.22.13"
             },
             {
               "package": {
@@ -15622,7 +16646,7 @@ interactions:
                 "ecosystem": "npm",
                 "name": "is-core-module"
               },
-              "version": "2.16.2"
+              "version": "2.17.0"
             },
             {
               "package": {
@@ -16446,7 +17470,7 @@ interactions:
                 "ecosystem": "npm",
                 "name": "resolve"
               },
-              "version": "1.22.12"
+              "version": "1.22.13"
             },
             {
               "package": {
@@ -16467,7 +17491,852 @@ interactions:
                 "ecosystem": "npm",
                 "name": "is-core-module"
               },
-              "version": "2.16.2"
+              "version": "2.17.0"
+            },
+            {
+              "package": {
+                "ecosystem": "npm",
+                "name": "path-parse"
+              },
+              "version": "1.0.7"
+            },
+            {
+              "package": {
+                "ecosystem": "npm",
+                "name": "supports-preserve-symlinks-flag"
+              },
+              "version": "1.0.0"
+            },
+            {
+              "package": {
+                "ecosystem": "npm",
+                "name": "hasown"
+              },
+              "version": "2.0.4"
+            },
+            {
+              "package": {
+                "ecosystem": "npm",
+                "name": "function-bind"
+              },
+              "version": "1.1.2"
+            },
+            {
+              "package": {
+                "ecosystem": "npm",
+                "name": "spdx-correct"
+              },
+              "version": "3.2.0"
+            },
+            {
+              "package": {
+                "ecosystem": "npm",
+                "name": "spdx-expression-parse"
+              },
+              "version": "3.0.1"
+            },
+            {
+              "package": {
+                "ecosystem": "npm",
+                "name": "spdx-license-ids"
+              },
+              "version": "3.0.24"
+            },
+            {
+              "package": {
+                "ecosystem": "npm",
+                "name": "spdx-exceptions"
+              },
+              "version": "2.5.0"
+            },
+            {
+              "package": {
+                "ecosystem": "npm",
+                "name": "are-we-there-yet"
+              },
+              "version": "1.1.7"
+            },
+            {
+              "package": {
+                "ecosystem": "npm",
+                "name": "console-control-strings"
+              },
+              "version": "1.1.0"
+            },
+            {
+              "package": {
+                "ecosystem": "npm",
+                "name": "gauge"
+              },
+              "version": "2.7.4"
+            },
+            {
+              "package": {
+                "ecosystem": "npm",
+                "name": "set-blocking"
+              },
+              "version": "2.0.0"
+            },
+            {
+              "package": {
+                "ecosystem": "npm",
+                "name": "delegates"
+              },
+              "version": "1.0.0"
+            },
+            {
+              "package": {
+                "ecosystem": "npm",
+                "name": "aproba"
+              },
+              "version": "1.2.0"
+            },
+            {
+              "package": {
+                "ecosystem": "npm",
+                "name": "has-unicode"
+              },
+              "version": "2.0.1"
+            },
+            {
+              "package": {
+                "ecosystem": "npm",
+                "name": "object-assign"
+              },
+              "version": "4.1.1"
+            },
+            {
+              "package": {
+                "ecosystem": "npm",
+                "name": "signal-exit"
+              },
+              "version": "3.0.7"
+            },
+            {
+              "package": {
+                "ecosystem": "npm",
+                "name": "string-width"
+              },
+              "version": "1.0.2"
+            },
+            {
+              "package": {
+                "ecosystem": "npm",
+                "name": "strip-ansi"
+              },
+              "version": "3.0.1"
+            },
+            {
+              "package": {
+                "ecosystem": "npm",
+                "name": "wide-align"
+              },
+              "version": "1.1.5"
+            },
+            {
+              "package": {
+                "ecosystem": "npm",
+                "name": "code-point-at"
+              },
+              "version": "1.1.0"
+            },
+            {
+              "package": {
+                "ecosystem": "npm",
+                "name": "is-fullwidth-code-point"
+              },
+              "version": "1.0.0"
+            },
+            {
+              "package": {
+                "ecosystem": "npm",
+                "name": "number-is-nan"
+              },
+              "version": "1.0.1"
+            },
+            {
+              "package": {
+                "ecosystem": "npm",
+                "name": "ansi-regex"
+              },
+              "version": "2.1.1"
+            },
+            {
+              "package": {
+                "ecosystem": "npm",
+                "name": "wrappy"
+              },
+              "version": "1.0.2"
+            },
+            {
+              "package": {
+                "ecosystem": "npm",
+                "name": "aws-sign2"
+              },
+              "version": "0.7.0"
+            },
+            {
+              "package": {
+                "ecosystem": "npm",
+                "name": "aws4"
+              },
+              "version": "1.13.2"
+            },
+            {
+              "package": {
+                "ecosystem": "npm",
+                "name": "caseless"
+              },
+              "version": "0.12.0"
+            },
+            {
+              "package": {
+                "ecosystem": "npm",
+                "name": "combined-stream"
+              },
+              "version": "1.0.8"
+            },
+            {
+              "package": {
+                "ecosystem": "npm",
+                "name": "extend"
+              },
+              "version": "3.0.2"
+            },
+            {
+              "package": {
+                "ecosystem": "npm",
+                "name": "forever-agent"
+              },
+              "version": "0.6.1"
+            },
+            {
+              "package": {
+                "ecosystem": "npm",
+                "name": "form-data"
+              },
+              "version": "2.3.3"
+            },
+            {
+              "package": {
+                "ecosystem": "npm",
+                "name": "har-validator"
+              },
+              "version": "5.1.5"
+            },
+            {
+              "package": {
+                "ecosystem": "npm",
+                "name": "http-signature"
+              },
+              "version": "1.2.0"
+            },
+            {
+              "package": {
+                "ecosystem": "npm",
+                "name": "is-typedarray"
+              },
+              "version": "1.0.0"
+            },
+            {
+              "package": {
+                "ecosystem": "npm",
+                "name": "isstream"
+              },
+              "version": "0.1.2"
+            },
+            {
+              "package": {
+                "ecosystem": "npm",
+                "name": "json-stringify-safe"
+              },
+              "version": "5.0.1"
+            },
+            {
+              "package": {
+                "ecosystem": "npm",
+                "name": "mime-types"
+              },
+              "version": "2.1.35"
+            },
+            {
+              "package": {
+                "ecosystem": "npm",
+                "name": "oauth-sign"
+              },
+              "version": "0.9.0"
+            },
+            {
+              "package": {
+                "ecosystem": "npm",
+                "name": "performance-now"
+              },
+              "version": "2.1.0"
+            },
+            {
+              "package": {
+                "ecosystem": "npm",
+                "name": "qs"
+              },
+              "version": "6.5.5"
+            },
+            {
+              "package": {
+                "ecosystem": "npm",
+                "name": "tough-cookie"
+              },
+              "version": "2.5.0"
+            },
+            {
+              "package": {
+                "ecosystem": "npm",
+                "name": "tunnel-agent"
+              },
+              "version": "0.6.0"
+            },
+            {
+              "package": {
+                "ecosystem": "npm",
+                "name": "uuid"
+              },
+              "version": "3.4.0"
+            },
+            {
+              "package": {
+                "ecosystem": "npm",
+                "name": "delayed-stream"
+              },
+              "version": "1.0.0"
+            },
+            {
+              "package": {
+                "ecosystem": "npm",
+                "name": "asynckit"
+              },
+              "version": "0.4.0"
+            },
+            {
+              "package": {
+                "ecosystem": "npm",
+                "name": "mime-db"
+              },
+              "version": "1.52.0"
+            },
+            {
+              "package": {
+                "ecosystem": "npm",
+                "name": "ajv"
+              },
+              "version": "6.15.0"
+            },
+            {
+              "package": {
+                "ecosystem": "npm",
+                "name": "har-schema"
+              },
+              "version": "2.0.0"
+            },
+            {
+              "package": {
+                "ecosystem": "npm",
+                "name": "fast-deep-equal"
+              },
+              "version": "3.1.3"
+            },
+            {
+              "package": {
+                "ecosystem": "npm",
+                "name": "fast-json-stable-stringify"
+              },
+              "version": "2.1.0"
+            },
+            {
+              "package": {
+                "ecosystem": "npm",
+                "name": "json-schema-traverse"
+              },
+              "version": "0.4.1"
+            },
+            {
+              "package": {
+                "ecosystem": "npm",
+                "name": "uri-js"
+              },
+              "version": "4.4.1"
+            },
+            {
+              "package": {
+                "ecosystem": "npm",
+                "name": "punycode"
+              },
+              "version": "2.3.1"
+            },
+            {
+              "package": {
+                "ecosystem": "npm",
+                "name": "assert-plus"
+              },
+              "version": "1.0.0"
+            },
+            {
+              "package": {
+                "ecosystem": "npm",
+                "name": "jsprim"
+              },
+              "version": "1.4.2"
+            },
+            {
+              "package": {
+                "ecosystem": "npm",
+                "name": "sshpk"
+              },
+              "version": "1.18.0"
+            },
+            {
+              "package": {
+                "ecosystem": "npm",
+                "name": "extsprintf"
+              },
+              "version": "1.3.0"
+            },
+            {
+              "package": {
+                "ecosystem": "npm",
+                "name": "json-schema"
+              },
+              "version": "0.4.0"
+            },
+            {
+              "package": {
+                "ecosystem": "npm",
+                "name": "verror"
+              },
+              "version": "1.10.0"
+            },
+            {
+              "package": {
+                "ecosystem": "npm",
+                "name": "core-util-is"
+              },
+              "version": "1.0.2"
+            },
+            {
+              "package": {
+                "ecosystem": "npm",
+                "name": "asn1"
+              },
+              "version": "0.2.6"
+            },
+            {
+              "package": {
+                "ecosystem": "npm",
+                "name": "bcrypt-pbkdf"
+              },
+              "version": "1.0.2"
+            },
+            {
+              "package": {
+                "ecosystem": "npm",
+                "name": "dashdash"
+              },
+              "version": "1.14.1"
+            },
+            {
+              "package": {
+                "ecosystem": "npm",
+                "name": "ecc-jsbn"
+              },
+              "version": "0.1.2"
+            },
+            {
+              "package": {
+                "ecosystem": "npm",
+                "name": "getpass"
+              },
+              "version": "0.1.7"
+            },
+            {
+              "package": {
+                "ecosystem": "npm",
+                "name": "jsbn"
+              },
+              "version": "0.1.1"
+            },
+            {
+              "package": {
+                "ecosystem": "npm",
+                "name": "safer-buffer"
+              },
+              "version": "2.1.2"
+            },
+            {
+              "package": {
+                "ecosystem": "npm",
+                "name": "tweetnacl"
+              },
+              "version": "0.14.5"
+            },
+            {
+              "package": {
+                "ecosystem": "npm",
+                "name": "psl"
+              },
+              "version": "1.15.0"
+            }
+          ]
+        }
+      headers:
+        Content-Type:
+          - application/json
+      url: https://api.osv.dev/v1/querybatch
+      method: POST
+    response:
+      proto: HTTP/2.0
+      proto_major: 2
+      proto_minor: 0
+      content_length: 836
+      body: |
+        {
+          "results": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {
+              "vulns": [
+                {
+                  "id": "GHSA-p8p7-x288-28g6",
+                  "modified": "2026-09-10T03:49:52.915755Z"
+                }
+              ]
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {
+              "vulns": [
+                {
+                  "id": "GHSA-fjxv-7rqg-78g4",
+                  "modified": "2026-09-10T03:50:57.924154Z"
+                },
+                {
+                  "id": "GHSA-hmw2-7cc7-3qxx",
+                  "modified": "2026-09-10T03:50:49.785679Z"
+                }
+              ]
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {
+              "vulns": [
+                {
+                  "id": "GHSA-4mjr-xmp4-gh2g",
+                  "modified": "2026-09-10T03:51:14.991984Z"
+                },
+                {
+                  "id": "GHSA-6rw7-vpxm-498p",
+                  "modified": "2026-09-10T03:50:31.670581Z"
+                }
+              ]
+            },
+            {
+              "vulns": [
+                {
+                  "id": "GHSA-72xf-g2v4-qvf3",
+                  "modified": "2026-09-10T03:49:54.440029Z"
+                }
+              ]
+            },
+            {},
+            {
+              "vulns": [
+                {
+                  "id": "GHSA-w5hq-g745-h8pq",
+                  "modified": "2026-09-10T03:51:03.663336Z"
+                }
+              ]
+            },
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        }
+      headers:
+        Content-Length:
+          - "836"
+        Content-Type:
+          - application/json
+      status: 200 OK
+      code: 200
+      duration: 0s
+  - request:
+      proto: HTTP/1.1
+      proto_major: 1
+      proto_minor: 1
+      content_length: 11963
+      host: api.osv.dev
+      body: |
+        {
+          "queries": [
+            {
+              "package": {
+                "ecosystem": "npm",
+                "name": "npm-registry-client"
+              },
+              "version": "7.5.0"
+            },
+            {
+              "package": {
+                "ecosystem": "npm",
+                "name": "concat-stream"
+              },
+              "version": "1.6.2"
+            },
+            {
+              "package": {
+                "ecosystem": "npm",
+                "name": "graceful-fs"
+              },
+              "version": "4.2.11"
+            },
+            {
+              "package": {
+                "ecosystem": "npm",
+                "name": "normalize-package-data"
+              },
+              "version": "2.5.0"
+            },
+            {
+              "package": {
+                "ecosystem": "npm",
+                "name": "npm-package-arg"
+              },
+              "version": "4.2.1"
+            },
+            {
+              "package": {
+                "ecosystem": "npm",
+                "name": "npmlog"
+              },
+              "version": "4.1.2"
+            },
+            {
+              "package": {
+                "ecosystem": "npm",
+                "name": "once"
+              },
+              "version": "1.4.0"
+            },
+            {
+              "package": {
+                "ecosystem": "npm",
+                "name": "request"
+              },
+              "version": "2.88.2"
+            },
+            {
+              "package": {
+                "ecosystem": "npm",
+                "name": "retry"
+              },
+              "version": "0.10.1"
+            },
+            {
+              "package": {
+                "ecosystem": "npm",
+                "name": "semver"
+              },
+              "version": "5.7.2"
+            },
+            {
+              "package": {
+                "ecosystem": "npm",
+                "name": "slide"
+              },
+              "version": "1.1.6"
+            },
+            {
+              "package": {
+                "ecosystem": "npm",
+                "name": "buffer-from"
+              },
+              "version": "1.1.2"
+            },
+            {
+              "package": {
+                "ecosystem": "npm",
+                "name": "inherits"
+              },
+              "version": "2.0.4"
+            },
+            {
+              "package": {
+                "ecosystem": "npm",
+                "name": "readable-stream"
+              },
+              "version": "2.3.8"
+            },
+            {
+              "package": {
+                "ecosystem": "npm",
+                "name": "typedarray"
+              },
+              "version": "0.0.6"
+            },
+            {
+              "package": {
+                "ecosystem": "npm",
+                "name": "core-util-is"
+              },
+              "version": "1.0.3"
+            },
+            {
+              "package": {
+                "ecosystem": "npm",
+                "name": "isarray"
+              },
+              "version": "1.0.0"
+            },
+            {
+              "package": {
+                "ecosystem": "npm",
+                "name": "process-nextick-args"
+              },
+              "version": "2.0.1"
+            },
+            {
+              "package": {
+                "ecosystem": "npm",
+                "name": "safe-buffer"
+              },
+              "version": "5.1.2"
+            },
+            {
+              "package": {
+                "ecosystem": "npm",
+                "name": "string_decoder"
+              },
+              "version": "1.1.1"
+            },
+            {
+              "package": {
+                "ecosystem": "npm",
+                "name": "util-deprecate"
+              },
+              "version": "1.0.2"
+            },
+            {
+              "package": {
+                "ecosystem": "npm",
+                "name": "hosted-git-info"
+              },
+              "version": "2.8.9"
+            },
+            {
+              "package": {
+                "ecosystem": "npm",
+                "name": "resolve"
+              },
+              "version": "1.22.13"
+            },
+            {
+              "package": {
+                "ecosystem": "npm",
+                "name": "validate-npm-package-license"
+              },
+              "version": "3.0.4"
+            },
+            {
+              "package": {
+                "ecosystem": "npm",
+                "name": "es-errors"
+              },
+              "version": "1.3.0"
+            },
+            {
+              "package": {
+                "ecosystem": "npm",
+                "name": "is-core-module"
+              },
+              "version": "2.17.0"
             },
             {
               "package": {
@@ -17305,7 +19174,7 @@ interactions:
                 "ecosystem": "npm",
                 "name": "resolve"
               },
-              "version": "1.22.12"
+              "version": "1.22.13"
             },
             {
               "package": {
@@ -17326,7 +19195,7 @@ interactions:
                 "ecosystem": "npm",
                 "name": "is-core-module"
               },
-              "version": "2.16.2"
+              "version": "2.17.0"
             },
             {
               "package": {
@@ -18213,7 +20082,7 @@ interactions:
                 "ecosystem": "npm",
                 "name": "resolve"
               },
-              "version": "1.22.12"
+              "version": "1.22.13"
             },
             {
               "package": {
@@ -18234,7 +20103,7 @@ interactions:
                 "ecosystem": "npm",
                 "name": "is-core-module"
               },
-              "version": "2.16.2"
+              "version": "2.17.0"
             },
             {
               "package": {
@@ -19121,7 +20990,7 @@ interactions:
                 "ecosystem": "npm",
                 "name": "resolve"
               },
-              "version": "1.22.12"
+              "version": "1.22.13"
             },
             {
               "package": {
@@ -19142,7 +21011,7 @@ interactions:
                 "ecosystem": "npm",
                 "name": "is-core-module"
               },
-              "version": "2.16.2"
+              "version": "2.17.0"
             },
             {
               "package": {
@@ -20029,7 +21898,7 @@ interactions:
                 "ecosystem": "npm",
                 "name": "resolve"
               },
-              "version": "1.22.12"
+              "version": "1.22.13"
             },
             {
               "package": {
@@ -20050,7 +21919,7 @@ interactions:
                 "ecosystem": "npm",
                 "name": "is-core-module"
               },
-              "version": "2.16.2"
+              "version": "2.17.0"
             },
             {
               "package": {
@@ -20937,7 +22806,7 @@ interactions:
                 "ecosystem": "npm",
                 "name": "resolve"
               },
-              "version": "1.22.12"
+              "version": "1.22.13"
             },
             {
               "package": {
@@ -20958,7 +22827,7 @@ interactions:
                 "ecosystem": "npm",
                 "name": "is-core-module"
               },
-              "version": "2.16.2"
+              "version": "2.17.0"
             },
             {
               "package": {
@@ -21845,7 +23714,7 @@ interactions:
                 "ecosystem": "npm",
                 "name": "resolve"
               },
-              "version": "1.22.12"
+              "version": "1.22.13"
             },
             {
               "package": {
@@ -21866,7 +23735,7 @@ interactions:
                 "ecosystem": "npm",
                 "name": "is-core-module"
               },
-              "version": "2.16.2"
+              "version": "2.17.0"
             },
             {
               "package": {
@@ -22753,7 +24622,7 @@ interactions:
                 "ecosystem": "npm",
                 "name": "resolve"
               },
-              "version": "1.22.12"
+              "version": "1.22.13"
             },
             {
               "package": {
@@ -22774,7 +24643,7 @@ interactions:
                 "ecosystem": "npm",
                 "name": "is-core-module"
               },
-              "version": "2.16.2"
+              "version": "2.17.0"
             },
             {
               "package": {
